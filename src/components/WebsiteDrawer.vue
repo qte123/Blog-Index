@@ -88,8 +88,8 @@ onMounted(() => {
       <span class="drawer-handler__icon">
         <up-outlined />
       </span>
-      <span class="drawer-handler__text slide-up">Slide Up</span>
-      <span class="drawer-handler__text wheel-up">Wheel Up</span>
+      <span class="drawer-handler__text slide-up">下滑</span>
+      <span class="drawer-handler__text wheel-up">上滑</span>
     </div>
     <!-- Drawer -->
     <Drawer
