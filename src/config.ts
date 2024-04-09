@@ -60,9 +60,7 @@ const GLOBAL_CONFIG = {
    */
   SLOGANS: [
     "欢迎拜访",
-    "歡迎拜訪",
     "Welcome, my friend!",
-    "訪問へようこそ",
     "嗨，别来无恙",
     "不忘初心，一生浪漫",
     "最近还好吗？",
@@ -81,9 +79,9 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
-    keywords: "Blog, Index, Index Page",
-    description: "This is my personal blog index page.",
+    title: "我的首页",
+    keywords: "我的首页",
+    description: "我的首页",
   },
 };
 
