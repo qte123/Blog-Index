@@ -11,15 +11,15 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
       {
         title: "聊天机器人",
-        description: "聊天机器人",
         url: "https://chat.tafleo.top",
         icon: "",
+        color: "#0171CD",
       },
       {
         title: "Next-Chat",
-        description: "Next-Chat",
         url: "https://next.tafleo.top",
         icon: "",
+        color: "#0171CD",
       },
     ],
   },
