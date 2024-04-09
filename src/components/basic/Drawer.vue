@@ -62,9 +62,6 @@ function onDrawerClick(e: Event) {
         <div class="drawer__content">
           <slot></slot>
         </div>
-        <div class="drawer__footer">
-          <sketch-outlined class="footer-icon" />
-        </div>
       </div>
     </div>
   </teleport>
